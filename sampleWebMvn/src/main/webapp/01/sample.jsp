@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello Maven~~
+Hello Maven~~~~
 </body>
 </html>
